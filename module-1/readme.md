@@ -75,10 +75,10 @@ money_in_wallet -= sandwich_price
 ```
 
 ## Exercise 8
-In exercise 6 you describe the code using the hashtag symbol
+In exercise 6 you describe the code using the hashtag symbol meaning it only shows up on the code 
 
 ```
 
-#
+#Hello World
 
 ```
