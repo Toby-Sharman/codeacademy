@@ -78,3 +78,7 @@ money_in_wallet -= sandwich_price
 In exercise 6 you describe the code using the hashtag symbol
 
 ```
+
+#
+
+```
