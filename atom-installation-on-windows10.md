@@ -2,7 +2,7 @@
 
 Atom is used to write code and through the Github plugin it will create files that can be pushed to Github. I installed a couple of packages to make writer in markdown a little easier.
 
-![atom](images/2018/04/atom.png)
+![Atom](images/2018/04/atom.png)
 
 To display the Git pane, ^ shift 9
 
