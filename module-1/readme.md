@@ -1,1 +1,3 @@
-# Module 1 code snippets
+# Module 1
+---
+Module 1 is the introduction module 
